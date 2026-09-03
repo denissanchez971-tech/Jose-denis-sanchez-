@@ -35,4 +35,19 @@ img{max-width:300px;width:90%}
 </div>
 </main>
 </body>
-</html>
+</html> <section class="redes-sociales">
+  <h2>Síguenos en redes sociales</h2>
+
+  <a href="https://www.facebook.com/TU_PAGINA" target="_blank">
+    Facebook
+  </a>
+
+  <a href="https://www.instagram.com/TU_USUARIO" target="_blank">
+    Instagram
+  </a>
+
+  <a href="https://www.tiktok.com/@TU_USUARIO" target="_blank">
+    TikTok
+  </a>
+</section></body>
+</html><a href="https://www.instagram.com/denisbarbershop" target="_blank">8
